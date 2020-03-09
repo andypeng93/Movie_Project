@@ -8,6 +8,11 @@ Our goal is to first gather as much data as we can so that we can examine the fo
 * Directors of movies with ratings and revenues of movies.
 * Genres of movies with ratings and revenues of movies.
 
+## What this repository contains?
+* Jupyter notebook containing all the code used to develope the necessary data visualizations.
+* A folder containing all the data I used for data analysis.
+* PDF copy of my PowerPoint presentation
+
 ## Resources Used
 The following list contains the resources we used to perform our data analysis on the data relating to the movie industry.
 
