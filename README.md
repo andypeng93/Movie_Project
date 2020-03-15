@@ -12,6 +12,7 @@ Our goal is to first gather as much data as we can so that we can examine the fo
 * Jupyter notebook containing all the code used to develope the necessary data visualizations.
 * A folder containing all the data I used for data analysis.
 * PDF copy of my PowerPoint presentation
+* Video presentation of the project
 
 ## Resources Used
 The following list contains the resources we used to perform our data analysis on the data relating to the movie industry.
