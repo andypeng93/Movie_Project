@@ -29,8 +29,8 @@ The following list contains the resources we used to perform our data analysis o
 
 
 #### Visual 1
-![graph1](./Visualizations/Gender.PNG)
-> Gender VS Heart Disease
+<img src=./Images/directorratings.PNG width="480">
+> Director's Average Movie Ratings
 
 #### Visual 2
 ![graph2](./Visualizations/ChestPain.PNG)
