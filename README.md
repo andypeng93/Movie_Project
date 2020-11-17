@@ -33,8 +33,8 @@ The following list contains the resources we used to perform our data analysis o
 > Director's Average Movie Ratings
 
 #### Visual 2
-![graph2](./Visualizations/ChestPain.PNG)
-> Chest Pain Types VS Heart Disease
+<img src=./Images/genreratings.PNG width="740">
+> Average Movie Ratings for each type of genre
 
 #### Visual 3
 ![graph3](./Visualizations/Thal.PNG)
