@@ -33,7 +33,7 @@ The following list contains the resources we used to perform our data analysis o
 > Director's Average Movie Ratings
 
 #### Visual 2
-<img src=./Images/genreratings.PNG width="740">
+<img src=./Images/genreratings.PNG width="800">
 > Average Movie Ratings for each type of genre
 
 #### Visual 3
