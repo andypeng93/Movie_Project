@@ -29,7 +29,7 @@ The following list contains the resources we used to perform our data analysis o
 
 
 #### Visual 1
-<img src=./Images/directorratings.PNG width="480">
+<img src=./Images/directorratings.PNG width="800">
 > Director's Average Movie Ratings
 
 #### Visual 2
