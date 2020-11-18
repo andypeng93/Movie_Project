@@ -37,8 +37,8 @@ The following list contains the resources we used to perform our data analysis o
 > Average Movie Ratings for each type of genre
 
 #### Visual 3
-![graph3](./Visualizations/Thal.PNG)
-> Thalium Stress Result VS Heart Disease
+<img src=./Images/runtimeratings.PNG width="800">
+> Length of Movies VS Ratings
 
 #### Visual 4
 ![graph4](./Visualizations/Age.PNG)
