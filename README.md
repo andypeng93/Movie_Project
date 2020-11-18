@@ -28,15 +28,15 @@ The following list contains the resources we used to perform our data analysis o
 ## Results
 
 
-#### Visual 1
+#### Ratings Visual 1
 <img src=./Images/directorratings.PNG width="800">
 > Director's Average Movie Ratings
 
-#### Visual 2
+#### Ratings Visual 2
 <img src=./Images/genreratings.PNG width="800">
 > Average Movie Ratings for each type of genre
 
-#### Visual 3
+#### Ratings Visual 3
 <img src=./Images/runtimeratings.PNG width="800">
 > Length of Movies VS Ratings
 
