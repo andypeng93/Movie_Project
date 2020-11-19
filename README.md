@@ -40,9 +40,9 @@ The following list contains the resources we used to perform our data analysis o
 <img src=./Images/runtimeratings.PNG width="800">
 > Length of Movies VS Ratings
 
-#### Visual 4
-![graph4](./Visualizations/Age.PNG)
-> Age of Individuals VS Heart Disease
+#### Ratings Visual 4
+<img src=./Images/populardirectors.PNG width="800">
+> Director's Popularity
 
 #### Visual 5
 ![graph5](./Visualizations/AgeMax.PNG)
