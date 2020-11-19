@@ -33,16 +33,16 @@ The following list contains the resources we used to perform our data analysis o
 > Director's Average Movie Ratings
 
 #### Ratings Visual 2
+<img src=./Images/populardirectors.PNG width="800">
+> Director's Popularity
+
+#### Ratings Visual 3
 <img src=./Images/genreratings.PNG width="800">
 > Average Movie Ratings for each type of genre
 
-#### Ratings Visual 3
+#### Ratings Visual 4
 <img src=./Images/runtimeratings.PNG width="800">
 > Length of Movies VS Ratings
-
-#### Ratings Visual 4
-<img src=./Images/populardirectors.PNG width="800">
-> Director's Popularity
 
 #### Visual 5
 ![graph5](./Visualizations/AgeMax.PNG)
