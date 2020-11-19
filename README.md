@@ -34,7 +34,7 @@ The following list contains the resources we used to perform our data analysis o
 
 #### Ratings Visual 2
 <img src=./Images/populardirectors.PNG width="800">
-> Director's Popularity
+> Director's Popularity VS Average Movie Ratings
 
 #### Ratings Visual 3
 <img src=./Images/genreratings.PNG width="800">
