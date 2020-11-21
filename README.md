@@ -44,13 +44,13 @@ The following list contains the resources we used to perform our data analysis o
 <img src=./Images/runtimeratings.PNG width="800">
 > Length of Movies VS Ratings
 
-#### Revenues Visual 5
+#### Revenues Visual 1
 <img src=./Images/genrerevenues.PNG width="800">
-> Age of Individuals VS Maximum Heart Rate
+> Genre's Average Revenue
 
-#### Models
-![ROC Curve](./Visualizations/ROC1.PNG)
-> ROC Curve of the different Models
+#### Revenues Visual 2
+<img src=./Images/runtimerevenues.PNG width="800">
+> Runtime's Average Revenue
 
 ![Model Results](./Visualizations/ModelResults.PNG)
 > Model Results of Base Model and Model Tuning
