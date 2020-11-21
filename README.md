@@ -44,8 +44,8 @@ The following list contains the resources we used to perform our data analysis o
 <img src=./Images/runtimeratings.PNG width="800">
 > Length of Movies VS Ratings
 
-#### Visual 5
-![graph5](./Visualizations/AgeMax.PNG)
+#### Revenues Visual 5
+<img src=./Images/genrerevenues.PNG width="800">
 > Age of Individuals VS Maximum Heart Rate
 
 #### Models
