@@ -52,16 +52,6 @@ The following list contains the resources we used to perform our data analysis o
 <img src=./Images/runtimerevenues.PNG width="800">
 > Runtime's Average Revenue
 
-![Model Results](./Visualizations/ModelResults.PNG)
-> Model Results of Base Model and Model Tuning
-
-* AUC - Random Forest with GridSearchCV
-
-* Accuracy/ F1 Score/ Recall - XGBoost
-
-* Precision - Decision Tree with GridSearchCV
-
-
 
 ## Recommendations:
 
