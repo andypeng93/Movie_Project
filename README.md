@@ -55,22 +55,28 @@ The following list contains the resources we used to perform our data analysis o
 
 ## Recommendations:
 
-To summarize everything above, we can see from above that to correctly classified a patient as having heart disease we need to consider the following features.
+To summarize everything above, we can see from above we need to consider the following features when making a movie.
 
-1) Gener of the individual - Males have a higher chance at having heart disease than females.
+1) Popular Directors - Hiring popular directors lead to a higher average revenue and ratings for movies
 
-2) Asymptomatic Chest Pain - Individuals with this type of chest pain have a high chance of having heart disease
+2) Genres
+* Animation, adventure, sci-fi, fantasy and action lead to higher revenues
 
-3) Reversable Defect - If the thalium stress result turns out to be reversable defect, the individual would have a high chance of having heart disease.
-
-4) Age & Maxium Heart Rate - As you get older, your maximum heart rate goes down. We can see that individuals that have heart disease tend to be older and have a lower maximum heart rate.
+* Short films, documentary, game shows, news and biographies lead to higher ratings
 
 Our modeling shows that a regular XGBoost is the best model for our problem. This is because we want a model that generates a high recall value in order to minimize the chance of us classifying an individual as false negatives. Being that heart disease is really serious, it would be dangerous if we wrongly classify a person with no heart disease when they indeed do have heart disease.
 
 
 ## Limitations & Next Steps
 
-There are many features that we haven't considered. For example whether the family has a genetic disorder, body fat percentage, and the individual's diet. Also our model can be further improved by gathering more patient's information.
+There are many features that we haven't considered. For example,
+
+* Time the movie is released
+* Movie budget
+* Actors
+* Domestic VS International
+
+Not only can we consider these features in our future exploration, but gathering more data would help further support our claims.
 
 
 ### For further information
