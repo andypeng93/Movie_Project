@@ -64,8 +64,6 @@ To summarize everything above, we can see from above we need to consider the fol
 
 * Short films, documentary, game shows, news and biographies lead to higher ratings
 
-Our modeling shows that a regular XGBoost is the best model for our problem. This is because we want a model that generates a high recall value in order to minimize the chance of us classifying an individual as false negatives. Being that heart disease is really serious, it would be dangerous if we wrongly classify a person with no heart disease when they indeed do have heart disease.
-
 
 ## Limitations & Next Steps
 
