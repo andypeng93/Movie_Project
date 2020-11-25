@@ -8,7 +8,7 @@ The contents of this repository detail an analysis of the module one project. Th
 
 ### Business problem:
 
-Microsoft tasked us into helping them understand the movie industry better. We need to retreive and explore the data relating to the movie industry. First thing to do is gather as much data relating to the movie industry as we can. Then I want to explore each dataset and see if any are worth joining together to create an even more interesting dataset. After that I want to explore the relationships between genres, directors, ratings, revenues and runtime of movies.
+Microsoft tasked us into helping them understand the movie industry better. We need to retreive and explore the data relating to the movie industry. First thing to do is gather as much data relating to the movie industry as we can. Then I want to explore each dataset and see if any are worth joining together. After that I want to explore the relationships between genres, directors, ratings, revenues and runtime of movies.
 
 
 ### Data
