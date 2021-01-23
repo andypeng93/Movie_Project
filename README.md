@@ -80,7 +80,7 @@ Not only can we consider these features in our future exploration, but gathering
 ### For further information
 Please review the narrative of our analysis in [our jupyter notebook](./Movie%20Project%20-%20Andy.ipynb) or review our [presentation](./Module%201%20–%20Movie%20Project%20Presentation.pdf)
 
-For any additional questions, please contact **andypeng93@gmail.com)
+For any additional questions, please contact andypeng93@gmail.com)
 
 
 ##### Repository Structure:
