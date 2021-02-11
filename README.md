@@ -17,7 +17,7 @@ The following list contains the resources we used to perform our data analysis o
 * IMDB
 * Rotten Tomatoes
 * TheMovieDB.org
-* Kaggle tmdb movie data downloaded from https://www.kaggle.com/juzershakir/tmdb-movies-dataset
+* [TMDB Kaggle Movie Data](https://www.kaggle.com/juzershakir/tmdb-movies-dataset)
 
 
 ## Methods
