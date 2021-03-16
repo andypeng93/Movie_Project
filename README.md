@@ -1,5 +1,4 @@
 # Movie Data Analysis
-## Flatiron Mod 1 Project
 
 **Authors**: Andy Peng
 
